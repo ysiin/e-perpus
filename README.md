@@ -65,3 +65,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 "# e-perpus" 
+
+1. Make sure you have yarn installed to your machine.
+2. Run the yarn command to install development dependencies.
+3. Run the yarn dist command to build pages/ directory.
+4. Run the yarn dev command to start developing.
